@@ -5,7 +5,7 @@ using namespace sf;
 const int M = 20;
 const int N = 10;
 
-int field[M][N] = {0}
+int field[M][N] = {0};
 
 struct Point
 {int x,y;} a[4], b[4];
