@@ -2,6 +2,7 @@
 #include <time.h>
 using namespace sf;
 
+
 const int M = 20;
 const int N = 10;
 
